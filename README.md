@@ -197,6 +197,9 @@ Summary of Strengths
 While the assessment team was successful in finding several vulnerabilities, the team also recognized several strengths within MegaCorpOne’s environment. These positives highlight the effective countermeasures and defenses that successfully prevented, detected, or denied an attack technique or tactic from occurring. 
 
 After attempting to login with the credential we gained we were still unable to log in as administrator. It wouldn’t let us get into the account through the user interface even though we set the tstark as the admin with password.
+
+![Semantic description of image](https://github.com/jdryan1217/Pen-Test-Report/blob/main/Screen%20Shots/1.jpg)
+
 IP 172.22.117.150 didn’t have all ports open, 977 closed tcp ports were not shown.
 IP 172.22.117.20 only had 4 ports open and 996 closed tcp ports. IP 172.22.117.10 only had 11 ports open and 989 closed tcp ports. IP 172.22.117.100 only had 3 open ports and 996 closed tcp ports.
 
